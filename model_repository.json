@@ -1,0 +1,16 @@
+[
+    {
+        "fullName": "en_US-libritts-high",
+        "shortName": "libritts",
+        "onnxURL": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/libritts/high/en_US-libritts-high.onnx?download=true",
+        "onnxMetadataURL": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/libritts/high/en_US-libritts-high.onnx.json?download=true",
+        "metadataURL": "https://raw.githubusercontent.com/phyce/rl-natural-speech/master/speakers_metadata/en_US-libritts-high.metadata.json"
+    },
+    {
+        "fullName": "en_GB-vctk-medium",
+        "shortName": "vctk",
+        "onnxURL": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/vctk/medium/en_GB-vctk-medium.onnx?download=true",
+        "onnxMetadataURL": "https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/vctk/medium/en_GB-vctk-medium.onnx.json?download=true",
+        "metadataURL": "https://raw.githubusercontent.com/phyce/rl-natural-speech/master/speakers_metadata/en_GB-vctk-medium.metadata.json"
+    }
+]
