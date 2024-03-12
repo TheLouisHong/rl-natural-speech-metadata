@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Neutral",
+		"gender": "M",
+		"piperVoiceID": 0
+	},
+	{
+		"name": "Amused",
+		"gender": "M",
+		"piperVoiceID": 1
+	},
+	{
+		"name": "Angry",
+		"gender": "M",
+		"piperVoiceID": 2
+	},
+	{
+		"name": "Disgusted",
+		"gender": "M",
+		"piperVoiceID": 3
+	},
+	{
+		"name": "Sleepy",
+		"gender": "M",
+		"piperVoiceID": 4
+	},
+	{
+		"name": "Surprised",
+		"gender": "M",
+		"piperVoiceID": 5
+	},
+	{
+		"name": "Drunk",
+		"gender": "M",
+		"piperVoiceID": 6
+	},
+	{
+		"name": "Whispering",
+		"gender": "M",
+		"piperVoiceID": 7
+	},
+]
