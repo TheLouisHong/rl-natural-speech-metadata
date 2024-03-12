@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Male",
+		"gender": "M",
+		"piperVoiceID": 0
+	},
+	{
+		"name": "Female",
+		"gender": "F",
+		"piperVoiceID": 1
+	}
+]
