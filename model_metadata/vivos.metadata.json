@@ -1,232 +1,232 @@
 [
 	{
 		"name" : "VIVOSSPK01",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 48
 	},
 	{
 		"name" : "VIVOSSPK02",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 49
 	},
 	{
 		"name" : "VIVOSSPK03",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 50
 	},
 	{
 		"name" : "VIVOSSPK04",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 49
 	},
 	{
 		"name" : "VIVOSSPK05",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 52
 	},
 	{
 		"name" : "VIVOSSPK06",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 53
 	},
 	{
 		"name" : "VIVOSSPK07",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 54
 	},
 	{
 		"name" : "VIVOSSPK08",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 55
 	},
 	{
 		"name" : "VIVOSSPK09",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK10",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK11",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK12",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK13",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK14",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 1
 	},
 	{
 		"name" : "VIVOSSPK15",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 2
 	},
 	{
 		"name" : "VIVOSSPK16",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 3
 	},
 	{
 		"name" : "VIVOSSPK17",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 4
 	},
 	{
 		"name" : "VIVOSSPK18",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 5
 	},
 	{
 		"name" : "VIVOSSPK19",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 6
 	},
 	{
 		"name" : "VIVOSSPK20",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 7
 	},
 	{
 		"name" : "VIVOSSPK21",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 8
 	},
 	{
 		"name" : "VIVOSSPK22",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 9
 	},
 	{
 		"name" : "VIVOSSPK23",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK24",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK25",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK26",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 10
 	},
 	{
 		"name" : "VIVOSSPK27",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK28",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK29",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK30",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK31",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK32",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK33",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK34",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 11
 	},
 	{
 		"name" : "VIVOSSPK35",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK36",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK37",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK38",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK39",
-		"gender": "m",
+		"gender": "M",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK40",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK41",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK42",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK43",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK44",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK45",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	},
 	{
 		"name" : "VIVOSSPK46",
-		"gender": "f",
+		"gender": "F",
 		"piperVoiceID": 0
 	}
 ]
