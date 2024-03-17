@@ -2,37 +2,37 @@
 	{
 		"name": "Neutral",
 		"gender": "M",
-		"piperVoiceID": 0
+		"piperVoiceID": 4
 	},
 	{
 		"name": "Amused",
 		"gender": "M",
-		"piperVoiceID": 1
+		"piperVoiceID": 0
 	},
 	{
 		"name": "Angry",
 		"gender": "M",
-		"piperVoiceID": 2
+		"piperVoiceID": 1
 	},
 	{
 		"name": "Disgusted",
 		"gender": "M",
-		"piperVoiceID": 3
+		"piperVoiceID": 2
 	},
 	{
 		"name": "Sleepy",
 		"gender": "M",
-		"piperVoiceID": 4
+		"piperVoiceID": 5
 	},
 	{
 		"name": "Surprised",
 		"gender": "M",
-		"piperVoiceID": 5
+		"piperVoiceID": 6
 	},
 	{
 		"name": "Drunk",
 		"gender": "M",
-		"piperVoiceID": 6
+		"piperVoiceID": 3
 	},
 	{
 		"name": "Whispering",
