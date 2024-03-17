@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Lada",
+        "gender": "F",
+        "piperVoiceID": 0
+    },
+    {
+        "name": "Nikita",
+        "gender": "M",
+        "piperVoiceID": 1
+    },
+    {
+        "name": "Tetyana",
+        "gender": "F",
+        "piperVoiceID": 2
+    }
+]
